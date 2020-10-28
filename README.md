@@ -1,5 +1,4 @@
-# Smart Bartender - Remix by Danzibob (Originally by HackerShack)
-Cutting the threading and neo-pixel, and using an I2C OLED display to make this project just a little simpler
+# Smart Bartender - fixed version (Originally by HackerShack)
 
 **Requires [This OLED screen library](https://github.com/BLavery/lib_oled96) by [BLavery](https://github.com/BLavery)**
 
