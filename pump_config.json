@@ -18,15 +18,5 @@
 		"name": "Pump 4",
 		"pin": 23, 
 		"value": "oj"
-	},
-	"pump_5": {
-		"name": "Pump 5",
-		"pin": 24, 
-		"value": "grenadine"
-	},
-	"pump_6": {
-		"name": "Pump 6",
-		"pin": 25, 
-		"value": "cj"
 	}
 }
